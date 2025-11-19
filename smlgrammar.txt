@@ -1,0 +1,24 @@
+simple past                : subject + v2
+simple present             : subject + v1 (+s/es for he/she/it)
+simple future              : subject + will + v1
+---
+continuous past            : subject + was/were + v1 + ing
+continuous present         : subject + am/is/are + v1 + ing
+continuous future          : subject + will be + v1 + ing
+---
+perfect past               : subject + had + v3
+perfect present            : subject + have/has + v3
+perfect future             : subject + will have + v3
+---
+perfect continuous past    : subject + had been + v1 + ing
+perfect continuous present : subject + have/has been + v1 + ing
+perfect continuous future  : subject + will have been + v1 + ing
+---
+have (has for he/she/it)
+---
+was (were for we/you/they)
+---
+v1 verb = base form        : see
+v2 verb = past form        : saw
+v3 verb = past participle  : seen
+---
